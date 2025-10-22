@@ -1,4 +1,4 @@
-# 🌱 SmartGarden
+# 🌱 Smart Garden
 
 ## Description  
 SmartGarden is a Cisco Packet Tracer simulation project that demonstrates how IoT can automate irrigation systems in a smart farming environment.  
